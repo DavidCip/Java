@@ -1,0 +1,14 @@
+
+public class ab {
+	 public static void main(String[] args) {
+		 
+		 int a;
+		 int b;
+		 
+		 a=9;
+		 b=3;
+		 
+		 System.out.println(a/b);
+
+	 }
+}
